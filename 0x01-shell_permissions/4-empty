@@ -1,2 +1,2 @@
 #!/bin/bash
-newfile.hello
+newfile.hello \r\n
