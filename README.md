@@ -1,1 +1,1 @@
-This repository contains basic shell commands and scripts
+This repository is for devops
