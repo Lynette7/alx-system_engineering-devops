@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # displays Best School 10 times using for loop
-phrase="Best School"
-for _ in {0..9}; do echo "$phrase"; done
+
+for _ in {0..9}; do echo "Best School"; done
