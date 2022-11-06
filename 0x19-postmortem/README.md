@@ -37,8 +37,9 @@ matching to try and locate the erroneous `.phpp` file extension. Located it in t
 
 ## Summation
 
-In short, a typo. 
 ![Typo meme](https://github.com/Lynette7/alx-system_engineering-devops/blob/master/0x19-postmortem/Typomeme.jpg)
+
+In short, a typo. 
 Gotta love'em. In full, the WordPress app was encountering a critical
 error in `wp-settings.php` when tyring to load the file `class-wp-locale.phpp`. The correct
 file name, located in the `wp-content` directory of the application folder, was
