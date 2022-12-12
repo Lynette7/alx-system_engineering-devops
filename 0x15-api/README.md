@@ -1,0 +1,4 @@
+- 0-gather_data_from_an_API.py: Python script that returns information on the to-do list progress of a given employee ID.
+- 1-export_to_CSV.py: Python script exports to-do list information of a given employee ID to CSV format.
+- 2-export_to_JSON.py: Python script that exports to-do list information of a given employee ID to JSON format.
+- 3-dictionary_of_list_of_dictionaries.py: Python script that exports to-do list information for all employees to JSON format.
